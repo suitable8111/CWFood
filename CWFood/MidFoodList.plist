@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>가자미양송이버섯죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage1.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>김달걀노른자죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage2.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>단호박양파달걀찜</string>
+		<key>tip</key>
+		<string>단호박은 엄청 단단하므로 칼집을 낸 후 안쪽으로 칼을 집어 넣어서 잘라야합니다!</string>
+		<key>needItems</key>
+		<string>삶은 단호박 2T, 다진양파 1/2T, 달걀노른다 1개, 모유 혹은 분유 2큰술</string>
+		<key>howto</key>
+		<string>1. 달걀노른자와 모유를 섞어서 체에 한번 내려준다
+
+2. 삶은 단호박 과육을 체에 내린다
+
+3. 다진양파는 끓는 물에 2분정도 데쳐준다.
+
+4. 내열용기에 모든재료를 넣고 찜통에서 10분간 쪄준다</string>
+		<key>image</key>
+		<string>MidImage3.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>80g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>양파</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>모유</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>닭고기에호박죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage4.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>모둠채소으깸</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage5.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>배추속대쇠고기죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage6.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>쇠고기모둠채소죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>쌀 100g, 다진소고기 80g, 미역 3g, 소금, 후추, 간장, 참기름, 다진마늘</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage7.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>쇠고기</string>
+				<key>quantity</key>
+				<string>80g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>미역</string>
+				<key>quantity</key>
+				<string>3g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>100g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>쇠고기미역죽</string>
+		<key>tip</key>
+		<string>참기름과 깨소금이 들어가 고소하면서도 부드러운 쇠고기미역죽은 더위에 지친 입맛 없는 아이들에게 좋습니다.</string>
+		<key>needItems</key>
+		<string>쌀 100g, 다진소고기 80g, 미역 3g, 소금, 후추, 간장, 참기름, 다진마늘</string>
+		<key>howto</key>
+		<string>1. 쌀은 1시간간 불린 뒤 믹서로 곱게 간다. 
+
+2. 다진 소고기에 다진마늘 1ts, 간장 1TS, 소금, 후추를 넣고 밑간해주세요
+. 
+
+3. 미역은 물에 불려 잘게 잘라주세요
+ 
+
+4.달군 후라이팬에 참기름을 두르고 밑간해 둔 소고기를 볶아주세요
+. 
+
+5. 소고기가 어느정도 익으면 미역과 불린쌀을 넣고 쌀이 투명해질때까지 볶아주세요
+
+6. 쌀이 투명해지면서 잘볶아지면,물을 넣어주세요 물의 양은 쌀의 6배정도가 좋아요.
+
+7. 보글보글 끓어오르면 중불로 줄여 잘 저어가면서 쌀이 퍼지도록 잘 익혀주세요 모자란 간은 소금으로 맞춰주세요</string>
+		<key>image</key>
+		<string>MidImage8.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>쇠고기야채죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage9.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>연근닭고기죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage10.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>콜리플라워배죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage13.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>연근사과감자죽</string>
+		<key>tip</key>
+		<string>제철 식품인 무는 달고 시원한 맛이 특징. 성질이 따뜻하고 비타민 C가 풍부해 겨울철 면역력 강화에 도움이 된다. 흰 부분은 아린 맛이 나므로 이유식에는 푸른 부분을 이용할 것.</string>
+		<key>needItems</key>
+		<string>쌀·무 간 것·브로콜리 으깬 것 1큰술씩, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 쌀은 30분간 불린 뒤 믹서로 곱게 간다. 
+
+2. 무는 끓는 물에 3~4분 데친 뒤 강판에 곱게 간다. 
+
+3. 브로콜리는 봉오리 부분만 끓는 물에 1분쯤 데치고 찬물에 헹구어 절구에 곱게 으깬다. 
+
+4. 냄비에 쌀과 물을 넣고 센 불에 올려 끓어오르면 중약불로 줄인다. 
+
+5. ④에 무와 브로콜리를 넣고 고루 저어가며 7~8분 더 끓인 뒤 고운체에 내린다.</string>
+		<key>image</key>
+		<string>MidImage11.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>100g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>브로콜리</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>현미모둠채소죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage14.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>계란</string>
+				<key>quantity</key>
+				<string>60g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>단호박</string>
+				<key>quantity</key>
+				<string>120g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>쌀</string>
+				<key>quantity</key>
+				<string>10g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

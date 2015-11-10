@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>중기 이유식 - 연근사과감자죽</string>
+		<key>tip</key>
+		<string>제철 식품인 무는 달고 시원한 맛이 특징. 성질이 따뜻하고 비타민 C가 풍부해 겨울철 면역력 강화에 도움이 된다. 흰 부분은 아린 맛이 나므로 이유식에는 푸른 부분을 이용할 것.</string>
+		<key>needItems</key>
+		<string>쌀·무 간 것·브로콜리 으깬 것 1큰술씩, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 쌀은 30분간 불린 뒤 믹서로 곱게 간다. 
+
+2. 무는 끓는 물에 3~4분 데친 뒤 강판에 곱게 간다. 
+
+3. 브로콜리는 봉오리 부분만 끓는 물에 1분쯤 데치고 찬물에 헹구어 절구에 곱게 으깬다. 
+
+4. 냄비에 쌀과 물을 넣고 센 불에 올려 끓어오르면 중약불로 줄인다. 
+
+5. ④에 무와 브로콜리를 넣고 고루 저어가며 7~8분 더 끓인 뒤 고운체에 내린다.</string>
+		<key>image</key>
+		<string>MidImage11.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>초기 이유식 - 발아현미미음</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>FirstImage7.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>초기 이유식 - 비타민미음</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>FirstImage9.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>후기 이유식 - 감자밥치즈전</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>LastImage1.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>중기 이유식 - 조기양파죽</string>
+		<key>tip</key>
+		<string>닭고기는 성질이 따뜻하여 보양 요리에 자주 쓰인다. 요오드나 마그네슘 등 무기질이 풍부해 아기들에게 특히 좋은 식품. 찹싸은 닭의 따뜻한 성질을 돋우어 함께 먹으면 감기예방과 속을 편하게한다.</string>
+		<key>needItems</key>
+		<string>닭고기(안심) 삶아서 으깬 것 1큰술, 찹쌀 1큰술, 물 1컵</string>
+		<key>howto</key>
+		<string>1. 찹쌀은 깨긋이 씻어 1시간 정보 불린뒤 물을 약간 넣고 곱게간다
+
+2. 냄비에 1번 과 닭고기 물 1컵을 넣고 센 불에 올린다
+
+3. 2 번내용에서 끓어올르면 중약불로 줄이고 7~8분간 끓인뒤 체에 내린다</string>
+		<key>image</key>
+		<string>MidImage12.jpg</string>
+		<key>includes</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>닭고기</string>
+				<key>quantity</key>
+				<string>40g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>찹쌀</string>
+				<key>quantity</key>
+				<string>20g</string>
+				<key>delete</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
