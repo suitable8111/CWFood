@@ -9,11 +9,13 @@
 import Foundation
 import CoreData
 
-@objc(MyFood)
+@objc(FavorFood)
 
-class MyFood:NSManagedObject {
+class FavorFood:NSManagedObject {
+    
+    @NSManaged var primeKey: Int32
     @NSManaged var date: String
     @NSManaged var name: String
     @NSManaged var time: String
-    @NSManaged var image: String
+
 }

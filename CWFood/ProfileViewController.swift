@@ -49,7 +49,7 @@ class ProfileViewController : UIViewController {
         let currentDate = formatter.stringFromDate(date)
         
         let brithString = favorDic.valueForKey("birth") as? String
-        
+
         if favorDic.count != 0 {
             let yearMonthRange = Range(start:brithString!.startIndex.advancedBy(0), end: brithString!.startIndex.advancedBy(4))
             let monthRange = Range(start:brithString!.startIndex.advancedBy(2), end: brithString!.startIndex.advancedBy(4))

@@ -7,9 +7,10 @@
 //
 
 import UIKit
+import CoreData
 
 class AnalysisDetailViewController : UIViewController, UITableViewDelegate, UITableViewDataSource ,UITextFieldDelegate {
-    
+    static var PRIMEKEY : Int32 = 0
     @IBOutlet weak var menuView: UIView!
     @IBOutlet weak var tbView: UITableView!
     
@@ -25,6 +26,9 @@ class AnalysisDetailViewController : UIViewController, UITableViewDelegate, UITa
     @IBOutlet weak var deleteBtn: UIButton!
     @IBOutlet weak var viewOpenBtn: UIButton!
     
+    var appDel: AppDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
+    var contextA : NSManagedObjectContext?
+    
     var dataAry : NSMutableArray!
     var count = 0;
     
@@ -32,28 +36,27 @@ class AnalysisDetailViewController : UIViewController, UITableViewDelegate, UITa
     var imageText : String = ""
     var timeText : String = ""
     
-    var foodEatAry : NSMutableArray!
-    var foodEatDic : NSMutableDictionary!
+//    var foodEatAry : NSMutableArray!
+//    var foodEatDic : NSMutableDictionary!
     var formatter = NSDateFormatter()
     
     override func viewWillAppear(animated: Bool) {
         tbView.dataSource = self
         tbView.delegate = self
-        
         quantityTextField.delegate = self
         nameTextField.delegate = self
         
-        let path = getFileName("BabyEatList.plist")
-        let fileManager = NSFileManager.defaultManager()
-        
-        if(!fileManager.fileExistsAtPath(path)){
-            let orgPath = NSBundle.mainBundle().pathForResource("BabyEatList", ofType: "plist")
-            do {
-                try fileManager.copyItemAtPath(orgPath!, toPath: path)
-            } catch _ {
-            }
-        }
-        foodEatAry = NSMutableArray(contentsOfFile: path)
+//        let path = getFileName("BabyEatList.plist")
+//        let fileManager = NSFileManager.defaultManager()
+//        
+//        if(!fileManager.fileExistsAtPath(path)){
+//            let orgPath = NSBundle.mainBundle().pathForResource("BabyEatList", ofType: "plist")
+//            do {
+//                try fileManager.copyItemAtPath(orgPath!, toPath: path)
+//            } catch _ {
+//            }
+//        }
+//        foodEatAry = NSMutableArray(contentsOfFile: path)
         
         titleLabel.text = titleText + " 재료"
 
@@ -67,6 +70,10 @@ class AnalysisDetailViewController : UIViewController, UITableViewDelegate, UITa
         viewOpenBtn.layer.masksToBounds = true
         deleteBtn.layer.cornerRadius = 5
         deleteBtn.layer.masksToBounds = true
+        
+        contextA = appDel.managedObjectContext
+        
+        
     }
     @IBAction func AddMenu(sender: AnyObject) {
         UIView.animateWithDuration(1.0, animations: {
@@ -146,24 +153,35 @@ class AnalysisDetailViewController : UIViewController, UITableViewDelegate, UITa
         timeText = formatter.stringFromDate(datePickerView.date)
         
         
-        let path = getFileName("BabyEatList.plist")
-        foodEatDic = NSMutableDictionary()
-        foodEatDic.removeAllObjects()
-        foodEatDic = [:]
+//        let path = getFileName("BabyEatList.plist")
+//        foodEatDic = NSMutableDictionary()
+//        foodEatDic.removeAllObjects()
+//        foodEatDic = [:]
+//        
+//        foodEatDic.setObject(titleText, forKey: "title")
+//        foodEatDic.setObject(imageText, forKey: "image")
+//        foodEatDic.setObject(timeText, forKey: "time")
+//        foodEatAry.addObject(foodEatDic)
+//        
+//        foodEatAry.writeToFile(path, atomically: true)
+
+        let foodA: FavorFood = NSEntityDescription.insertNewObjectForEntityForName("FavorFood", inManagedObjectContext: contextA!) as! FavorFood
+        foodA.date = AnalysisViewController.SELECTDATE
+        foodA.time = timeText
+        foodA.name = titleText
+        AnalysisDetailViewController.PRIMEKEY++
+        foodA.primeKey = AnalysisDetailViewController.PRIMEKEY
         
-        foodEatDic.setObject(titleText, forKey: "title")
-        foodEatDic.setObject(imageText, forKey: "image")
-        foodEatDic.setObject(timeText, forKey: "time")
-        foodEatAry.addObject(foodEatDic)
+        appDel.saveContext()
         
-        foodEatAry.writeToFile(path, atomically: true)
         let alert = UIAlertView(title: "저장", message: "저장 완료 되었습니다!", delegate: self, cancelButtonTitle: "확인")
         alert.show()
+        
     }
-    func getFileName(fileName:String) -> String {
-        let docsDir = NSSearchPathForDirectoriesInDomains(NSSearchPathDirectory.DocumentDirectory, NSSearchPathDomainMask.UserDomainMask, true)
-        let docPath = docsDir[0] 
-        let fullName = docPath.stringByAppendingString(fileName)
-        return fullName
-    }
+//    func getFileName(fileName:String) -> String {
+//        let docsDir = NSSearchPathForDirectoriesInDomains(NSSearchPathDirectory.DocumentDirectory, NSSearchPathDomainMask.UserDomainMask, true)
+//        let docPath = docsDir[0] 
+//        let fullName = docPath.stringByAppendingString(fileName)
+//        return fullName
+//    }
 }
